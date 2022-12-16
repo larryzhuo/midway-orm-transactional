@@ -1,7 +1,7 @@
 {
-  "name": "midway-throttler",
+  "name": "midway-orm-transactional",
   "version": "1.0.4",
-  "description": "midway throttler base on traffic-throttler",
+  "description": "midway transactional annotation support sequelize, typeorm",
   "main": "dist/index.js",
   "typings": "index.d.ts",
   "scripts": {
